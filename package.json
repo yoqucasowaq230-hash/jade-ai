@@ -1,0 +1,15 @@
+{
+  "name": "jade-sales-ai",
+  "version": "2.0.0",
+  "description": "玉策AI - 和田玉销售智能助手",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
